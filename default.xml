@@ -27,6 +27,8 @@
   <remote  name="blobs"
            fetch="https://gitlab.com/ANDROID2468/" />
 
+  <remote  name="fireLOS"
+           fetch="https://gitlab.com/ANDROID2468/" />
 
 
   <!-- AOSP Projects -->
