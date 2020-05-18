@@ -18,6 +18,17 @@
            sync-c="true"
            sync-j="4" />
 
+  <remote  name="ANDROID2468"
+           fetch="https://github.com/ANDROID2468/" />
+
+  <remote  name="ggow"
+           fetch="https://github.com/ggow/" />
+
+  <remote  name="blobs"
+           fetch="https://gitlab.com/ANDROID2468/" />
+
+
+
   <!-- AOSP Projects -->
 
   <project path="build" name="LineageOS/android_build" groups="pdk">
@@ -506,5 +517,6 @@
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" remote="aosp" />
 
   <include name="snippets/cm.xml" />
+  <include name="snippets/devices.xml" />
 
 </manifest>
