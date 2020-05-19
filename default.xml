@@ -28,7 +28,8 @@
            fetch="https://gitlab.com/ANDROID2468/" />
 
   <remote  name="fireLOS"
-           fetch="https://gitlab.com/ANDROID2468/" />
+           fetch="https://bitbucket.org/firelos/" 
+           revision="fire-14.1" />
 
 
   <!-- AOSP Projects -->
