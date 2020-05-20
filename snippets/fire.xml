@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <!-- Removeals for FireLOS -->
+    <include name="snippets/remove.xml" /> 
+
+    <!-- FireLOS addons -->
+    <project name="android_frameworks_base"                        path="frameworks/base"               remote="fireLOS" /> 
+    <project name="android_system_core"                            path="system/core"                   remote="fireLOS" /> 
+    <project name="android_vendor_cm"                              path="vendor/cm"                     remote="fireLOS" /> 
+
+</manifest>

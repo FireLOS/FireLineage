@@ -521,5 +521,6 @@
 
   <include name="snippets/cm.xml" />
   <include name="snippets/devices.xml" />
+  <include name="snippets/fire.xml" /> 
 
 </manifest>

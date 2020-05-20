@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <!-- Remove LOS Stuff-->
+    <remove-project name="LineageOS/android_frameworks_base" />
+    <remove-project name="LineageOS/android_system_core" />
+    <remove-project name="LineageOS/android_vendor_cm" />
+
+
+</manifest>
