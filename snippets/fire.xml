@@ -10,5 +10,7 @@
     <project name="android_vendor_cm"                              path="vendor/cm"                     remote="fireLOS" /> 
     <project name="android_vendor_cm"                              path="vendor/apps"                   remote="fireLOS" /> 
     <project name="proprietary_vendor_apps"                        path="vendor/apps"                   remote="blob"    />
+    <project name="propiatary_apps_amazon"                         path="vendor/fire"                   remote="fireLOS"                 revision="master" />
+    <project name="android_vendor_microg"                          path="vendor/microg"                 remote="fireLOS"                 revision="master" />
 
 </manifest>
