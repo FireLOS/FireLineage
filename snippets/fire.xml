@@ -8,9 +8,12 @@
     <project name="android_frameworks_base"                        path="frameworks/base"               remote="fireLOS" /> 
     <project name="android_system_core"                            path="system/core"                   remote="fireLOS" /> 
     <project name="android_vendor_cm"                              path="vendor/cm"                     remote="fireLOS" /> 
-    <project name="android_vendor_cm"                              path="vendor/apps"                   remote="fireLOS" /> 
+    <project name="android_vendor_cm"                              path="vendor/apps"                   remote="fireLOS" />
+    <project name="android_build"                                  path="build"                         remote="fireLOS" >
+        <copyfile src="core/root.mk" dest="Makefile" />  
+    </project>
     <project name="proprietary_vendor_apps"                        path="vendor/apps"                   remote="blob"    />
     <project name="propiatary_apps_amazon"                         path="vendor/fire"                   remote="fireLOS"                 revision="master" />
     <project name="android_vendor_microg"                          path="vendor/microg"                 remote="fireLOS"                 revision="master" />
-
+    
 </manifest>
