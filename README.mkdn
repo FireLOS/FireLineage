@@ -1,4 +1,4 @@
-<img src="https://avatars1.githubusercontent.com/u/65521037?s=400&u=a0803c1c2898e1524dc0f94673c0b824c2734584&v=4">
+<img src="https://raw.githubusercontent.com/FireLOS/FireLineage/fire-14.1/FireLos%20Logo.png">
 ===========
 
 # Coming soon
