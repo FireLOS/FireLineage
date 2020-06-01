@@ -2,7 +2,7 @@
 
 
 # Coming soon
-Fire lineage is a forked of LineageOS with signiture spoofing, amazon apps, microG, and more.
+Fire lineage is a forked of LineageOS with signature spoofing, amazon apps, microG, and more.
 Forked from LineageOS
 ------------------
 
