@@ -15,7 +15,7 @@ familiar with [Git and Repo](https://source.android.com/source/using-repo.html).
 
 To initialize your local repository using the LineageOS trees, use a command like this:
 
-    repo init -u git://github.com/FireLOS -b fire-14.1
+    repo init -u git://github.com/FireLOS/FireLineage -b fire-14.1
 
 Then to sync up:
 
