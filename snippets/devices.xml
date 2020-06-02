@@ -2,7 +2,7 @@
 <manifest>
                                     <!--device trees-->
     <!--##################################################################################-->
-    <project name="android_device_amazon_mt8127-common" path="device/amazon/mt8127-common" remote="ggow" revision="cm-14.1" />
+    <project name="android_device_amazon_mt8127-common" path="device/amazon/mt8127-common" remote="fireLOS"  />
     <project name="android_device_amazon_austin" path="device/amazon/austin" remote="ggow" revision="cm-12.1" />
     <project name="android_device_amazon_ford" path="device/amazon/ford" remote="ggow" revision="cm-12.1" />
     <project name="android_device_amazon_mustang" path="device/amazon/mustang" remote="ggow" revision="cm-14.1" />
