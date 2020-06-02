@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+img src="https://raw.githubusercontent.com/FireLOS/FireLineage/fire-14.1/FireLos%20Logo.png">
 
-You can use the [editor on GitHub](https://github.com/FireLOS/FireLineage/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Coming soon
+Fire lineage is a forked of LineageOS with signature spoofing, amazon apps, microG, and more.
+------------------
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Getting Started
+---------------
 
-```markdown
-Syntax highlighted code block
+To get started with Android/LineageOS, you'll need to get
+familiar with [Git and Repo](https://source.android.com/source/using-repo.html).
 
-# Header 1
-## Header 2
-### Header 3
+To initialize your local repository using the LineageOS trees, use a command like this:
 
-- Bulleted
-- List
+    repo init -u git://github.com/FireLOS/FireLineage -b fire-14.1
 
-1. Numbered
-2. List
+Then to sync up:
 
-**Bold** and _Italic_ and `Code` text
+    repo sync
 
-[Link](url) and ![Image](src)
-```
+Please see the [LineageOS Wiki](https://wiki.lineageos.org/) for building instructions.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FireLOS/FireLineage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
