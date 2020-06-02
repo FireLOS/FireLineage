@@ -1,4 +1,4 @@
-img src="https://raw.githubusercontent.com/FireLOS/FireLineage/fire-14.1/FireLos%20Logo.png">
+<img src="https://raw.githubusercontent.com/FireLOS/FireLineage/fire-14.1/FireLos%20Logo.png">
 
 
 # Coming soon
