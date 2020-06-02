@@ -11,7 +11,7 @@
     <project name="android_build"                                  path="build"                         remote="fireLOS" >
         <copyfile src="core/root.mk" dest="Makefile" />  
     </project>
-    <project name="proprietary_vendor_apps"                        path="vendor/apps"                   remote="ANDROID2468" />
+    <project name="proprietary_vendor_apps"                        path="vendor/apps"                   remote="ANDROID2468"             revision="master" />
     <project name="propiatary_apps_amazon"                         path="vendor/fire"                   remote="fireLOS"                 revision="master" />
     <project name="android_vendor_microg"                          path="vendor/microg"                 remote="fireLOS"                 revision="master" />
     
