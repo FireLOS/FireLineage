@@ -7,7 +7,7 @@
     <!-- FireLOS addons -->
     <project name="android_frameworks_base"                        path="frameworks/base"               remote="fireLOS" /> 
     <project name="android_system_core"                            path="system/core"                   remote="fireLOS" /> 
-    <project name="android_vendor_cm"                              path="vendor/cm"                     remote="fireLOS"                remote="fire-14.1"/> 
+    <project name="android_vendor_cm"                              path="vendor/cm"                     remote="fireLOS"                revision="fire-14.1" /> 
     <project name="android_build"                                  path="build"                         remote="fireLOS" >
         <copyfile src="core/root.mk" dest="Makefile" />  
     </project>
