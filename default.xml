@@ -24,11 +24,8 @@
   <remote  name="ggow"
            fetch="https://github.com/ggow/" />
 
-  <remote  name="blobs"
-           fetch="https://gitlab.com/ANDROID2468/" />
-
   <remote  name="fireLOS"
-           fetch="https://gitlab.com/FireLOS/"
+           fetch="https://github.com/FireLOS/"
            remote="fire-14.1" />
 
 
